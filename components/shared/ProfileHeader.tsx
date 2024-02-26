@@ -61,6 +61,6 @@ function ProfileHeader({
             <div className='mt-12 h-0.5 w-full bg-dark-3' />
         </div>
     );
-}
+};
 
 export default ProfileHeader;

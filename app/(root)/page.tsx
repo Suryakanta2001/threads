@@ -56,7 +56,7 @@ async function Home({
         isNext={result.isNext}
       />
     </>
-  )
-}
+  );
+};
 
 export default Home
